@@ -1,0 +1,299 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:04] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:07] "GET /search/?s=вв HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:09] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Загруженный файл не поддерживается
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:16] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:36] "GET /post HTTP/1.1" 200 -
+INFO:root:Загруженный файл не поддерживается
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:41] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:43] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:46] "GET /search/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:46] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:46] "[36mGET /uploads/images/чел.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:46] "[36mGET /uploads/images/vinni-pukh-v-png.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:46] "[36mGET /uploads/images/AnyConv.com__Без%20названия.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:46] "[36mGET /uploads/images/png-transparent-ghost-drawing-halloween-ghost-pics-white-marine-mammal-fictional-character-thumbnail.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:25:46] "[36mGET /uploads/images/Снимок%20веб-страницы_16-8-2022_23634_pycheat.tilda.ws.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:27] "GET /search/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:27] "[36mGET /uploads/images/AnyConv.com__Без%20названия.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:27] "[36mGET /uploads/images/vinni-pukh-v-png.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:27] "[36mGET /uploads/images/чел.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:27] "[36mGET /uploads/images/png-transparent-ghost-drawing-halloween-ghost-pics-white-marine-mammal-fictional-character-thumbnail.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:27] "[36mGET /uploads/images/Снимок%20веб-страницы_16-8-2022_23634_pycheat.tilda.ws.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:29] "GET /search/ HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:29] "[36mGET /uploads/images/AnyConv.com__Без%20названия.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:29] "[36mGET /uploads/images/vinni-pukh-v-png.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:29] "[36mGET /uploads/images/чел.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:29] "[36mGET /uploads/images/png-transparent-ghost-drawing-halloween-ghost-pics-white-marine-mammal-fictional-character-thumbnail.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:29] "[36mGET /uploads/images/Снимок%20веб-страницы_16-8-2022_23634_pycheat.tilda.ws.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:33] "GET /search/?s=fff HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:34] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:53] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ERROR:app:Exception on /search/ [GET]
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\main\views.py", line 19, in search_page
+    posts = get_posts_by_words(search_query)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\functions.py", line 13, in get_posts_by_words
+    for post in load_posts():
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\functions.py", line 8, in load_posts
+    with open(POSTS_PATH, 'r', encoding='utf-8') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'posts1.json'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\main\views.py", line 21, in search_page
+    logging.info('Файл не найден')
+NameError: name 'logging' is not defined
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:26:55] "[35m[1mGET /search/?s= HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /post [POST]
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\loader\views.py", line 37, in add_post
+    post: dict = func_add_post({'pic': picture_path, 'content': content})
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\functions.py", line 26, in func_add_post
+    posts = load_posts()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\functions.py", line 8, in load_posts
+    with open(POSTS_PATH, 'r', encoding='utf-8') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'posts1.json'
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:27:49] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:29:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:29:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:29:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:29:41] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:29:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /post [POST]
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\loader\views.py", line 37, in add_post
+    post: dict = func_add_post({'pic': picture_path, 'content': content})
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\functions.py", line 26, in func_add_post
+    posts = load_posts()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\functions.py", line 8, in load_posts
+    with open(POSTS_PATH, 'r', encoding='utf-8') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'posts1.json'
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 02:29:45] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 23:59:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 23:59:19] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [26/Aug/2022 23:59:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:25] "GET /search/?s=привидение HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:28] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:36] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:36] "GET /uploads/images/png-transparent-ghost-drawing-halloween-ghost-pics-white-marine-mammal-fictional-character-thumbnail.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:38] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /post [POST]
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\loader\views.py", line 25, in add_post
+    picture.save(f"./uploads/images/{filename}")
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\werkzeug\datastructures.py", line 3002, in save
+    dst = open(dst, "wb")
+PermissionError: [Errno 13] Permission denied: './uploads/images/'
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:39] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:46] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:47] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:53] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:53] "GET /uploads/images/vinni-pukh-v-png.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:54] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /post [POST]
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\loader\views.py", line 25, in add_post
+    picture.save(f"./uploads/images/{filename}")
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\werkzeug\datastructures.py", line 3002, in save
+    dst = open(dst, "wb")
+PermissionError: [Errno 13] Permission denied: './uploads/images/'
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:00:57] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:root:Загруженный файл не поддерживается
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:01:04] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:01:05] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:05:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:05:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:30] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:32] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Загруженный файл не поддерживается
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:37] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:38] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:44] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:45] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:48] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:48] "GET /uploads/images/AnyConv.com__w585h345-crop-stretch-bbaee3ba.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:51] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /post [POST]
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\loader\views.py", line 25, in add_post
+    picture.save(f"./uploads/images/{filename}")
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\werkzeug\datastructures.py", line 3002, in save
+    dst = open(dst, "wb")
+PermissionError: [Errno 13] Permission denied: './uploads/images/'
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:10:52] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /post [POST]
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\lesson12_project_source_v3\loader\views.py", line 25, in add_post
+    picture.save(f"./uploads/images/{filename}")
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\werkzeug\datastructures.py", line 3002, in save
+    dst = open(dst, "wb")
+PermissionError: [Errno 13] Permission denied: './uploads/images/'
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:11:00] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:11:34] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:11:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:11:36] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:11:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:11:40] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Aug/2022 00:11:41] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:23] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:24] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:26] "GET /search/?s= HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:26] "GET /uploads/images/vinni-pukh-v-png.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:26] "GET /uploads/images/png-transparent-ghost-drawing-halloween-ghost-pics-white-marine-mammal-fictional-character-thumbnail.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:26] "GET /uploads/images/AnyConv.com__Без%20названия.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:26] "GET /uploads/images/чел.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:26] "GET /uploads/images/Снимок%20веб-страницы_16-8-2022_23634_pycheat.tilda.ws.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:26] "GET /uploads/images/AnyConv.com__w585h345-crop-stretch-bbaee3ba.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:34] "GET /search/?s=кот HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:44] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:54] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:55] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:57] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:01:57] "GET /uploads/images/AnyConv.com__w585h345-crop-stretch-bbaee3ba.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:02:00] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:02:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+ERROR:app:Exception on /post [POST]
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\loader\views.py", line 27, in add_post
+    picture.save(f"./uploads/images/{filename}")
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\werkzeug\datastructures.py", line 3002, in save
+    dst = open(dst, "wb")
+PermissionError: [Errno 13] Permission denied: './uploads/images/'
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:02:02] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /post [POST]
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\User\PycharmProjects\scy_hw_12\loader\views.py", line 27, in add_post
+    picture.save(f"./uploads/images/{filename}")
+  File "C:\Users\User\PycharmProjects\scy_hw_12\venv\lib\site-packages\werkzeug\datastructures.py", line 3002, in save
+    dst = open(dst, "wb")
+PermissionError: [Errno 13] Permission denied: './uploads/images/'
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:02:07] "[35m[1mPOST /post HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:02:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [28/Aug/2022 16:02:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
